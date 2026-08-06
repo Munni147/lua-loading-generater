@@ -1,1 +1,1 @@
-local bytes = {97}; local str = ''; for i=1, #bytes do str = str .. string.char(bytes[i]) end; loadstring(str)();
+local bytes = {112,114,105,110,116,40,34,34,41}; local str = ''; for i=1, #bytes do str = str .. string.char(bytes[i]) end; loadstring(str)();
